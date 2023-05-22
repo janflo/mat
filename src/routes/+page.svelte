@@ -45,7 +45,7 @@
 	</AppBar>
 	<br />
 	<h2 class="mb-4 text-center">
-		Svelte Materialify
+		 Materialify
 	</h2>
 	<Divider />
 	<br>
